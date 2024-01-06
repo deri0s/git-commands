@@ -15,6 +15,7 @@ Creates a copy of the remote repository into the local tracking-branch, tipicall
 git merge origin
 ```
 I am specifically naming the remote-tracking branch `origin`.
+an intended error
 
 - When working with this repository for the first time:
 Creates a copy of the remote-tracking branch, origin/main/ into the local branch main.
