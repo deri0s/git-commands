@@ -14,8 +14,9 @@ Creates a copy of the remote repository into the local tracking-branch, tipicall
 ```
 git merge origin
 ```
-- When working with this repository for the first time:
-<li>
+I am specifically naming the remote-tracking branch `origin`.
+<li> 
+- When working with this repository for the first time:<li>
 Creates a copy of the remote-tracking branch, origin/main/ into the local branch main.
 - When we want to update our local branch with the remote one:
 Merges (updates) the main branch with the content in the remote branch.
